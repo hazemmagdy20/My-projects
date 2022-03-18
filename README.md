@@ -1,1 +1,1 @@
-# number-scrabble
+# number-scrabble in python
