@@ -168,7 +168,7 @@ int main(){
 
             mainfile.close();
             increament += 1;
-
+            
         }else if (process == 2){
             //static int incremant = 0;
             int id;
