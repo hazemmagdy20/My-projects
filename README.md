@@ -4,3 +4,5 @@ Number scrabble is played with the list of numbers between 1 and 9. Each player 
 input to user a message and keyword ,then the message is encrypted  or decrypted by key or end the program according to input.
 # loginsystem
 register or login or change password in cpp.
+# Texteditor
+when You want to do any operation on file.
